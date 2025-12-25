@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 <p align="center">"Is there life on Mars?"</p>
 
 <p>
-  GSO, your local source of useful tools.<br>
+  GSO, your local source of sometimes useful tools.<br>
   enjoy with pleasure!
 </p>
