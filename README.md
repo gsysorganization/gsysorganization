@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **gsysorganization/gsysorganization** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">General Systems Organization</h1>
+<p align="center">"Is there life on Mars?"</p>
+
+<p>
+  GSO, your local source of useful tools.<br>
+  enjoy with pleasure!
+</p>
