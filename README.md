@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">General Systems Organization</h1>
 <p align="center">"Is there life on Mars?"</p>
-
+<br>
 <p>
   GSO, your local source of sometimes useful tools.<br>
   enjoy with pleasure!
